@@ -21,18 +21,24 @@
     "name": "Email",
     "icon": "/images/icon/email.png",
     "tip": "来封 Email ~",
-    "url": "mailto:one@imsyy.top"
+    "url": "mailto:1563372518@qq.com"
   },
   {
-    "name": "Twitter",
+    "name": "X",
     "icon": "/images/icon/twitter.png",
     "tip": "你懂的 ~",
-    "url": "https://twitter.com/yxzhou"
+    "url": "https://x.com/yxzhou15"
   },
   {
     "name": "Telegram",
     "icon": "/images/icon/telegram.png",
     "tip": "你懂的 ~",
-    "url": "https://t.me/bottom_user"
+    "url": "https://t.me/yxzhou629"
+  },
+  {
+    "name": "Instagram",
+    "icon": "/images/icon/Instagram.svg",
+    "tip": "你懂的 ~",
+    "url": "https://www.instagram.com/yxzhou629/"
   }
 ]
