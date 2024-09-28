@@ -70,6 +70,9 @@ const siteIcon = {
   Book,
   Fire,
   LaptopCode,
+  BrokenImageFilled,
+  EmailFilled,
+  BringToFront,
 };
 
 // 链接跳转
