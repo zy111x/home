@@ -5,7 +5,27 @@
     "link": "https://blog.291055.xyz/"
   },
   {
-    "icon": "Cloud",
+    "icon": "Compass",
+    "name": "导航页",
+    "link": "https://nav.291055.xyz/"
+  },
+  {
+    "icon": "Fire",
+    "name": "今日热榜",
+    "link": "https://hot.291055.xyz/"
+  },
+  {
+    "icon": "Images",
+    "name": "图床",
+    "link": "https://img.lianli.us.kg/"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": "站点监测",
+    "link": "https://status.291055.xyz/"
+  },
+  {
+    "icon": "MailBulk",
     "name": "虚拟邮箱",
     "link": "https://email.291055.xyz/"
   },
@@ -15,23 +35,8 @@
     "link": "https://splayer.291055.xyz/"
   },
   {
-    "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.291055.xyz/"
-  },
-  {
     "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
-  },
-  {
-    "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.291055.xyz/"
-  },
-  {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.291055.xyz/"
-  }
+    "name": "封面",
+    "link": "https://cover.lianli.us.kg/"
+  }  
 ]
