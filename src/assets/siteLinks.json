@@ -16,7 +16,7 @@
   },
   {
     "icon": "Images",
-    "name": "图床",
+    "name": "我的图床",
     "link": "https://img.lianli.us.kg/"
   },
   {
@@ -31,12 +31,22 @@
   },
   {
     "icon": "CompactDisc",
-    "name": "音乐",
+    "name": "音乐馆",
     "link": "https://splayer.291055.xyz/"
   },
   {
     "icon": "Book",
-    "name": "封面",
+    "name": "我的封面",
     "link": "https://cover.lianli.us.kg/"
+  },
+  {
+    "icon": "AngleDoubleDown",
+    "name": "短链生成器",
+    "link": "https://durl.291055.xyz/"
+  }, 
+  {
+    "icon": "HourglassStart",
+    "name": "Umami统计",
+    "link": "https://umami.291055.xyz/"
   }  
 ]
