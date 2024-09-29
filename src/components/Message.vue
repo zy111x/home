@@ -111,8 +111,8 @@ watch(
       }
 
       .sm {
-        margin-left: 6px;
-        font-size: 4rem;
+        margin-left: 3px;
+        font-size: 3rem;
         @media (min-width: 721px) and (max-width: 789px) {
           display: none;
         }
