@@ -112,7 +112,7 @@ watch(
 
       .sm {
         margin-left: 6px;
-        font-size: 2rem;
+        font-size: 4rem;
         @media (min-width: 721px) and (max-width: 789px) {
           display: none;
         }
