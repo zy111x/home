@@ -9,7 +9,7 @@
 简单的小主页，原来的看够了，重新弄了一个
 </p>
 
-![無名の主页](/screenshots/main.jpg)
+![LianLiの主页](/screenshots/main.jpg)
 
 > 主页的 Logo 字体已经过压缩，若用本站 Logo 以外的字母会变回默认字体，这里是 [完整字体](https://file.imsyy.top/font/Other/Pacifico-Regular.ttf)，若无法下载，可将字体目录下的 `Pacifico-Regular-all.ttf` 进行替换
 
@@ -17,9 +17,7 @@
 
 > 由于 CDN 缓存原因，查看最新效果可能需要 `Ctrl` + `F5` 强制刷新浏览器缓存
 
-- [無名の主页](https://www.imsyy.top)
-- [無名の主页 - Dev](https://home-imsyy.vercel.app)
-- [無名の主页 - 备用线路](https://home-5iw.pages.dev)
+- [LianLiの主页](https://www.imsyy.top)
 
 ### 🎉 功能
 
