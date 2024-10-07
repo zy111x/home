@@ -48,5 +48,25 @@
     "icon": "HourglassStart",
     "name": "Umami统计",
     "link": "https://umami.291055.xyz/"
-  }  
+  },
+  {
+    "icon": "Brain",
+    "name": "思维导图",
+    "link": "https://mind.291055.xyz/"
+  },
+  {
+    "icon": "PaintBrush",
+    "name": "画板",
+    "link": "https://draw.291055.xyz/"
+  },
+  {
+    "icon": "SnapchatSquare",
+    "name": "My ChatGPT",
+    "link": "https://openai.291055.xyz/"
+  },
+  {
+    "icon": "Desktop",
+    "name": "IT Tools",
+    "link": "https://ittools.291055.xyz/"
+  }
 ]
